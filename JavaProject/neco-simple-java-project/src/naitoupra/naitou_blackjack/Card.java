@@ -12,6 +12,7 @@ public class Card {
         number = inputNumber;
     }
 
+    // ゲッター
     public String getSuit() {
         return suit;
     }
