@@ -1,6 +1,6 @@
 package naitoupra.naitou_blackjack;
 
-//ここでクラスを作成
+//ここでクラスを作成(class + class名)
 public class Card {
 
     String suit;
