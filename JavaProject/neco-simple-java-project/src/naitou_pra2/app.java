@@ -6,8 +6,6 @@ public class app {
         // 繰り返し処理
         // コメントアウトは ctrl + /
 
-        int sum = 1;// 足された結果が入る。
-
         // for（開始前の処理；継続条件；ループごとに行う処理）
         for (int i = 1; i <= 9; i++) {
             String resultStr = "";
@@ -19,7 +17,7 @@ public class app {
             System.out.println(resultStr);
 
         }
-        // forのインデックスの変数名は自由
+        // forのインデックスの変数名は自由⇒iでもindexでもOK
         // インデックスを含め、forの中で宣言された変数は、forの中でしか使えない。
     }
 
